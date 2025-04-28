@@ -1,4 +1,4 @@
-# PetersMathNotes
+# Peters Math Notes
 This is a long term project to create a curriculum of areas of mathematics that are not commonly taught nowadays.  
 
 It will trace the classical Quadrivium of Arithmetic, Geometry, Music, and Astronomy, with notation updated to the modern version.
